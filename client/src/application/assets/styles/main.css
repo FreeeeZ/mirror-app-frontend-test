@@ -1,0 +1,5 @@
+@import '@application/fonts/Montserrat/style.css';
+
+html {
+    font-family: Montserrat, sans-serif;
+}

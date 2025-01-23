@@ -1,0 +1,10 @@
+.navigation_wrapper {
+  width: 100%;
+  position: sticky;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 20px;
+  bottom: 20px;
+  z-index: 3;
+}

@@ -1,0 +1,10 @@
+.settings_info {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+
+  span {
+    color: var(--colors-white);
+    font-weight: 500;
+  }
+}
